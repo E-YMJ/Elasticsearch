@@ -1,6 +1,6 @@
 # Elasticsearch Demo
-This project is a demonstration of a RESTful back-end system for submitting and searching feedback data from website tutorials using 
-Spring Boot, Spring Data, MongoDB, Elasticsearch, JUnit.  
+**This project is a demonstration of a RESTful back-end system for submitting and searching feedback data from website tutorials using 
+Spring Boot, Spring Data, MongoDB, Elasticsearch, JUnit.**
 
 - The primary focus of this project is to showcase the use of Elasticsearch for improving full-text search relevance and performance.
 
